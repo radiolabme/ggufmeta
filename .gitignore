@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Go
+bin/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Binaries
+ggufmeta
