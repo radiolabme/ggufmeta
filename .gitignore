@@ -10,4 +10,4 @@ dist/
 *.dylib
 
 # Binaries
-ggufmeta
+bin/
