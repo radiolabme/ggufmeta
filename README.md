@@ -1,8 +1,5 @@
 
-⸻
-
-
-# ggufmeta (pure Go)
+# ggufmeta (A pure Go GGUF metadata reader)
 
 A tiny, dependency-free CLI to extract **GGUF** model metadata into **NDJSON**.
 
